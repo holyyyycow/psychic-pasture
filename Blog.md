@@ -1,3 +1,6 @@
-# Blog
-check em!
-so yea, this is where I’m going to be writing about stuff from.
+# Welcome!
+### Nov. 29, 2020
+
+## Kali/Acc research
+
+lol etc
