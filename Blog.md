@@ -1,6 +1,6 @@
 # Welcome!
 ### Nov. 29, 2020
 
-## Kali/Acc research
+## research
 
-lol etc
+etc
